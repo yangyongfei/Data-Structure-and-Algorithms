@@ -1,2 +1,2 @@
 # -
-学习javascript数据接口和算法笔记
+学习javascript数据结构和算法笔记
